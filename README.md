@@ -36,15 +36,21 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
 
 1.
   * How many rows were returned:
+        - There were a total of 7 rows returned.
   * First name of the first user:
+        - The first name of the first user is Mitsue
 
 2.
   * How many rows were returned:
+  - There were 2 rows 
   * What states do they live in:
+  - MD and TX
 
 3.
   * How many rows were returned:
+  - 6 rows returned
   * What's the last email on the list:
+  -nichelle_meteer@meteer.com
 
 
   ## Summary
